@@ -1,6 +1,6 @@
-# ☁️ Computação em Nuvem
+# Computação em Nuvem
 
-A **computação em nuvem** é um modelo de fornecimento de recursos de TI — como servidores, armazenamento, bancos de dados, rede e softwares — através da internet, permitindo **acesso sob demanda**, **escalabilidade** e **pagamento conforme o uso**.
+A **computação em nuvem** é um modelo de fornecimento de recursos de TI, como servidores, armazenamento, bancos de dados, rede e softwares através da internet. Permitindo **acesso sob demanda**, **escalabilidade** e **pagamento conforme o uso**.
 
 A **Amazon Web Services (AWS)** é uma das líderes mundiais em serviços de nuvem, oferecendo soluções que permitem empresas e desenvolvedores criar, implantar e gerenciar aplicações de forma ágil e segura.
 
