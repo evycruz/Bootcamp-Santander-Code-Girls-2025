@@ -8,9 +8,9 @@ Olá eu sou a Evelyn e tenho 29 anos. Sou Designer e estudante do curso de Engen
 
 ## 📂 O que você vai encontrar aqui:
 
-/Notes/ — Anotações relevantes sobre conteúdos das aulas.
-/Projects/ — Projetos e desafios realizados.
-/Certificates/ — Certificados conquistados durante cada etapa.
+- /Notes/ — Anotações relevantes sobre conteúdos das aulas.
+- /Projects/ — Projetos e desafios realizados.
+- /Certificates/ — Certificados conquistados durante cada etapa.
 
 ## 👩🏻‍💻 Ferramentas utilizadas
 
