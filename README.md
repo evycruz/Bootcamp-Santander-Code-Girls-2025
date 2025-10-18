@@ -13,8 +13,8 @@ Olá! Eu me chamo Evelyn, sou Designer e estudante do curso de Engenharia de Sof
 
 ## 👩🏻‍💻 Ferramentas utilizadas
 
-Editor: VSCode
-Cloud: AWS
+- Editor: VSCode
+- Cloud: AWS
 
 ## 🔗✨ Bora se conectar?
 
